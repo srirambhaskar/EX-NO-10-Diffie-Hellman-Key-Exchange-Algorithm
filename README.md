@@ -1,7 +1,7 @@
 # EX-NO-10-Diffie-Hellman-Key-Exchange-Algorithm
 
 
-## NAME:Mohammed  B SRI RAM
+## NAME: B SRI RAM
 ## REG NO:21222304203
 
 
