@@ -86,7 +86,7 @@ int main() {
     return 0;
 }
 ```
-
+ 
 
 ## Output:
 ![exp-10](https://github.com/user-attachments/assets/3d1c34a7-9dc1-4f2a-bdf3-f344a3cc0d4a)
